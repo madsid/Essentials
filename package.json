@@ -1,0 +1,13 @@
+    {
+      "name": "gulp-test",
+      "preferGlobal": true,
+      "version": "0.0.1",
+      "author": "sidhartha madipalli",
+      "description": "gulp starter",
+      "engines": {
+        "node": ">=0.10"
+      },
+      "dependencies": {},
+      "devDependencies": {
+      }
+}
